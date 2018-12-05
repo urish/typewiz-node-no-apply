@@ -1,0 +1,15 @@
+{
+  "name": "typewiz-node-no-apply",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:urish/typewiz-node-no-apply.git",
+  "author": "Uri Shaked <uri@urishaked.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.1",
+    "typewiz-node": "^1.2.3"
+  }
+}
